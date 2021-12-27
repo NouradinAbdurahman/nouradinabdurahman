@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Nouradin Abdurahman</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouradinabdurahman&label=Profile%20views&color=0e75b6&style=flat" alt="nouradinabdurahman" /> </p>
 
@@ -9,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **YouTube**
 
-- 👨‍💻 All of my projects are available at [https://nouradinabdurahman.github.io/My-Portifolio/](https://nouradinabdurahman.github.io/My-Portifolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://nouradinabdurahman.github.io/My-Portifolio/)
 
 - 💬 Ask me about **Front-End Web Developer or any tech-related stuff.**
 
