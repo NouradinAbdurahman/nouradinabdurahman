@@ -22,7 +22,7 @@
 <a href="https://twitter.com/nouradin1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nouradin1208" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nouraddin-abdurahman-aden-7b91a1217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nouraddin-abdurahman-aden-7b91a1217" height="30" width="40" /></a>
 <a href="https://fb.com/nouradinabdurahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nouradinabdurahman" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/nouradiin_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/nouradiin_/" height="30" width="40" /></a>
+<a href="https://instagram.com/nouradiin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nouradiin_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
