@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Project](nouradinabdurahman.github.io/my-portifolio/)
+- 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)
 
 - 🌱 I’m currently learning **React.js**
 
 - 👯 I’m looking to collaborate on **YouTube**
 
-- 👨‍💻 All of my projects are available at [nouradinabdurahman.github.io/my-portifolio/](nouradinabdurahman.github.io/my-portifolio/)
+- 👨‍💻 All of my projects are available at [https://nouradinabdurahman.github.io/My-Portifolio/](https://nouradinabdurahman.github.io/My-Portifolio/)
 
 - 💬 Ask me about **Front-End Web Developer or any tech-related stuff.**
 
