@@ -6,7 +6,7 @@
 - 💬 Ask me about Front-End Web Developer or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @nouradiin_](https://www.instagram.com/nouradiin_/)
 - 😄 Pronouns: He/His
-- <!-- - 🤔 I’m looking for help with ********** -->
+<!-- - 🤔 I’m looking for help with ********** -->
 <!-- - ⚡ Fun fact: ********** -->
 
 
