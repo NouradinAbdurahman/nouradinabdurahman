@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Nouradin Abdurahman 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouradinabdurahman&label=Profile%20views&color=0e75b6&style=flat" alt="nouradinabdurahman" /> </p>
-
+<img src="https://raw.githubusercontent.com/nouradinabdurahman/nouradinabdurahman/master/Readme Profile.png" alt="banner that says Monica Powell - software engineer">
 <p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)
