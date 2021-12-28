@@ -38,8 +38,11 @@
 </p>
 </p>
 
+<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&theme=radical" alt=""></p>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=nouradinabdurahman&repo=github-readme-stats&cache_seconds=86400&theme=radical" alt=""></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/> 
+</p>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&locale=en" alt="nouradinabdurahman" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/></p>
+<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&locale=en" alt="nouradinabdurahman" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouradinabdurahman&" alt="nouradinabdurahman" /></p> -->
-<p></p>
