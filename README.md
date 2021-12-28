@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nouradin Abdurahman</h1>
+<h1 align="center">Hi, I'm Nouradin Abdurahman 👋</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouradinabdurahman&label=Profile%20views&color=0e75b6&style=flat" alt="nouradinabdurahman" /> </p>
 
 <p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
@@ -7,8 +7,6 @@
 - 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)
 
 - 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **YouTube**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nouradinabdurahman.github.io/My-Portifolio/)
 
