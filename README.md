@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
 
 - 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)
-
+- :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nouradinabdurahman.github.io/My-Portifolio/)
