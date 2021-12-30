@@ -1,6 +1,7 @@
 
 <!-- <h1 align="center">Hi, I'm Nouradin Abdurahman 👋</h1> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouradinabdurahman&label=Profile%20visitor&color=0e75b6&style=flat" alt="nouradinabdurahman" /> </p> -->
+
 <img src="https://raw.githubusercontent.com/nouradinabdurahman/nouradinabdurahman/master/Readme Profile.png" alt="banner that says Monica Powell - software engineer">
 <p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
 
@@ -31,6 +32,8 @@
 [![Mail Badge](https://img.shields.io/badge/-Nouradin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouraddin-abdurahman-aden-7b91a1217/)
 [![Mail Badge](https://img.shields.io/badge/-Nouradin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:n.aden1208@gmail.com)
 
+#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nouradinabdurahman)
 
 <!-- #### Bizness
 - :paperclip: [My Resume/CV](the link)
