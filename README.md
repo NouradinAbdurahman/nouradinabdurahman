@@ -52,10 +52,15 @@
 </p>
 </p>
 
-<p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&theme=radical" alt=""></p>
-<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=nouradinabdurahman&repo=github-readme-stats&cache_seconds=86400&theme=radical" alt=""></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/> 
-</p>
+<div align="left">
+  <a href="https://github.com/nouradinabdurahman">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouradinabdurahman&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<!-- <p align="left">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&theme=radical" alt=""></p>
+<p align="left">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/pin/?username=nouradinabdurahman&repo=github-readme-stats&cache_seconds=86400&theme=radical" alt=""></p> -->
+<!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/> 
+</p> -->
 
 <!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&locale=en" alt="nouradinabdurahman" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/></p> -->
 
