@@ -60,3 +60,7 @@
 <!-- <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&locale=en" alt="nouradinabdurahman" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nouradinabdurahman&show_icons=true&locale=en&layout=compact" alt="nouradinabdurahman"/></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouradinabdurahman&" alt="nouradinabdurahman" /></p> -->
+
+# My GitHub contributions as a Game of Life
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/NouradinAbdurahman.gif?z=6)](https://github4life.herokuapp.com/NouradinAbdurahman)
