@@ -32,8 +32,8 @@
 [![Mail Badge](https://img.shields.io/badge/-Nouradin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nouraddin-abdurahman-aden-7b91a1217/)
 [![Mail Badge](https://img.shields.io/badge/-Nouradin-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:n.aden1208@gmail.com)
 
-#### Profile Visits 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=nouradinabdurahman)
+<!--#### Profile Visits 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=nouradinabdurahman) -->
 
 <!-- #### Bizness
 - :paperclip: [My Resume/CV](the link)
@@ -66,6 +66,6 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nouradinabdurahman&" alt="nouradinabdurahman" /></p> -->
 
-# My GitHub contributions as a Game of Life
+<!--# My GitHub contributions as a Game of Life
 
-[![GitHub Game of Life](https://github4life.herokuapp.com/NouradinAbdurahman.gif?z=6)](https://github4life.herokuapp.com/NouradinAbdurahman)
+[![GitHub Game of Life](https://github4life.herokuapp.com/NouradinAbdurahman.gif?z=6)](https://github4life.herokuapp.com/NouradinAbdurahman)-->
