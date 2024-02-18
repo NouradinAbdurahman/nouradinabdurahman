@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/nouradinabdurahman/nouradinabdurahman/master/Banner.png" alt="banner that says Monica Powell - software engineer">
 <p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)
+<!--- 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)-->
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning **React.js**
 
