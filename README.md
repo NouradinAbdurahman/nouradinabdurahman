@@ -2,11 +2,11 @@
 <!-- <h1 align="center">Hi, I'm Nouradin Abdurahman 👋</h1> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nouradinabdurahman&label=Profile%20visitor&color=0e75b6&style=flat" alt="nouradinabdurahman" /> </p> -->
 
-<img src="https://raw.githubusercontent.com/nouradinabdurahman/nouradinabdurahman/master/Banner.png" alt="banner that says Monica Powell - software engineer">
-<p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p>
+<!-- <img src="https://raw.githubusercontent.com/nouradinabdurahman/nouradinabdurahman/master/Banner.png" alt="banner that says Monica Powell - software engineer">
+<p align="left"> <a href="https://twitter.com/nouradin1208" target="blank"><img src="https://img.shields.io/twitter/follow/nouradin1208?logo=twitter&style=for-the-badge" alt="nouradin1208" /></a> </p><!-- 
 
 <!--- 🔭 I’m currently working on [Portfolio Project](https://nouradinabdurahman.github.io/My-Portifolio/)-->
-- :computer: Most used line of code `git commit -m "Initial Commit"`
+<!--- - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://nouradinabdurahman.github.io/My-Portifolio/)
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **n.aden1208@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny 😃.**
+- ⚡ Fun fact **I think I'm funny 😃.**<!--- 
 
 
 <!-- <h3 align="left">Connect with me:</h3>
