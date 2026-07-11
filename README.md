@@ -108,11 +108,6 @@
 
 
 
-<div align="left">
-  <a href="https://github.com/nouradinabdurahman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nouradinabdurahman&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouradinabdurahman&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NouradinAbdurahman&show_icons=true&locale=en" alt="NouradinAbdurahman" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NouradinAbdurahman&" alt="NouradinAbdurahman" /></p>
@@ -127,7 +122,7 @@
 
 
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/Nouradin1208" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<p><a target="_blank" href="https://twitter.com/nouradln" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/nouraddin/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/nouradiin_/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
 
@@ -137,6 +132,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NouradinAbdurahman/NouradinAbdurahman/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NouradinAbdurahman/NouradinAbdurahman/output/github-snake.svg" />
-  <!-- <img alt="github-snake" src="https://raw.githubusercontent.com/NouradinAbdurahman/NouradinAbdurahman/output/github-snake.svg" /> -->
+  <img alt="github-snake" src="https://raw.githubusercontent.com/NouradinAbdurahman/NouradinAbdurahman/output/github-snake.svg" />
 </picture>
 
