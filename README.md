@@ -114,11 +114,9 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NouradinAbdurahman&show_icons=true&locale=en&layout=compact" alt="NouradinAbdurahman" /></p> -->
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=NouradinAbdurahman" alt="NouradinAbdurahman" /></a></p>  -->
 
-<a href="#NouradinAbdurahman-title"><img src="https://raw.githubusercontent.com/NouradinAbdurahman/github-stats-transparent/output/generated/overview.svg" alt="NouradinAbdurahman" align="right" /></a>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NouradinAbdurahman&theme=monokai&no-frame=true&no-bg=true&margin-w=4)
+[![Nouradin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NouradinAbdurahman&theme=github-compact)](https://github.com/NouradinAbdurahman)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NouradinAbdurahman&theme=github_dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NouradinAbdurahman&layout=compact)
 
 
 
