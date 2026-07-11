@@ -114,6 +114,7 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NouradinAbdurahman&show_icons=true&locale=en&layout=compact" alt="NouradinAbdurahman" /></p> -->
 <!-- <p><a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=NouradinAbdurahman" alt="NouradinAbdurahman" /></a></p>  -->
 
+<a href="#NouradinAbdurahman-title"><img src="https://raw.githubusercontent.com/NouradinAbdurahman/github-stats-transparent/output/generated/overview.svg" alt="NouradinAbdurahman" align="right" /></a>
 
 
 ## 🏆 GitHub Trophies
