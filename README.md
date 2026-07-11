@@ -50,7 +50,7 @@ Software Engineer focused on building scalable web, mobile, cloud, and AI-powere
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Languages
 
