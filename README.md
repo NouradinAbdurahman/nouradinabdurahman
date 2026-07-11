@@ -30,13 +30,13 @@ Building modern web, mobile, cloud, and AI-powered applications.
 
 ## About
 
-Software Engineer focused on building scalable web, mobile, cloud, and AI-powered applications. Passionate about developer tools, clean architecture, open source, and delivering production-ready software.
+Software Engineer specializing in full stack development, cloud technologies, AI-powered applications, and developer tools. Passionate about building scalable, production-ready software and contributing to open source.
 
 ---
 
 ## GitHub Analytics
 
-[![Nouradin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NouradinAbdurahman&theme=github-compact)](https://github.com/NouradinAbdurahman)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NouradinAbdurahman&theme=github-compact)](https://github.com/NouradinAbdurahman)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NouradinAbdurahman&theme=github_dark)
 
@@ -50,7 +50,7 @@ Software Engineer focused on building scalable web, mobile, cloud, and AI-powere
 
 ---
 
-# Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 
@@ -64,7 +64,7 @@ Software Engineer focused on building scalable web, mobile, cloud, and AI-powere
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Mobile
 
@@ -73,19 +73,16 @@ Software Engineer focused on building scalable web, mobile, cloud, and AI-powere
 
 ### Backend
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ### Databases
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### Cloud
 
