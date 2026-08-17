@@ -34,13 +34,13 @@ Software Engineer specializing in full stack development, cloud technologies, AI
 
 ---
 
-## GitHub Analytics
+<!--## GitHub Analytics
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NouradinAbdurahman&theme=github-compact)](https://github.com/NouradinAbdurahman)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NouradinAbdurahman&theme=github-compact)](https://github.com/NouradinAbdurahman)-->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NouradinAbdurahman&theme=github_dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NouradinAbdurahman&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NouradinAbdurahman&layout=compact) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NouradinAbdurahman/NouradinAbdurahman/output/github-snake-dark.svg" />
@@ -48,7 +48,7 @@ Software Engineer specializing in full stack development, cloud technologies, AI
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/NouradinAbdurahman/NouradinAbdurahman/output/github-snake.svg" />
 </picture>
 
----
+--- 
 
 # 💻 Tech Stack
 
