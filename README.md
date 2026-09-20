@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nouradin 👋</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack • AI • Cloud
+Software Engineer | Full-Stack Development
 </h3>
 
 <p align="center">
